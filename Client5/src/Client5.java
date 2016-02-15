@@ -8,8 +8,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * ----------------------------------------------
  * Author   : Varun Pius Felix Rodrigues       --
- * UFID     : 61965993                         --
- * GatorLink: varunpius@ufl.edu                --
+ * UnivEmail: varunpius@ufl.edu                --
  * Computer Networks Project                   --
  * Client1 class java file                     --
  * Created by VarunPius.                       --
